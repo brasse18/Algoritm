@@ -1,0 +1,7 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory '/cygdrive/d/git/Algoritm/Sorting/Quick-sort'
+ 
+make: *** No rule to make target '*.h', needed by 'Quick-sort'.
+
+make: Leaving directory '/cygdrive/d/git/Algoritm/Sorting/Quick-sort'
+ 
